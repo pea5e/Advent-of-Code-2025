@@ -1,0 +1,1 @@
+Advent of Code 2025 (AOC) [https://adventofcode.com/2025]
